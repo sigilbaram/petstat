@@ -1,0 +1,9 @@
+<package>
+    <name>petstat</name>
+    <version>1.0</version>
+    <type>addon</type>
+    <dependencies>
+        <dependency>packets</dependency>
+        <dependency>settings</dependency>
+    </dependencies>
+</package>
