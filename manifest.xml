@@ -3,7 +3,10 @@
     <version>1.0</version>
     <type>addon</type>
     <dependencies>
-        <dependency>packets</dependency>
+        <dependency>memory</dependency>
+        <dependency>pet</dependency>
         <dependency>settings</dependency>
+        <dependency>struct</dependency>
+        <dependency>player</dependency>
     </dependencies>
 </package>
